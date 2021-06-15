@@ -1,8 +1,4 @@
-var url1 = "https://grootankarthika.free.beeceptor.com/user1";
-var url2 = "https://grootankarthika.free.beeceptor.com/user2";
-var url3 = "https://grootankarthika.free.beeceptor.com/user3";
-var url4 = "https://grootankarthika.free.beeceptor.com/user4";
-var url5 = "https://grootankarthika.free.beeceptor.com/user5";
+
 
 const doGet1 = () => {
   const xhr = new XMLHttpRequest();
